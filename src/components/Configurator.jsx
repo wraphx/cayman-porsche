@@ -12,8 +12,8 @@ const options = [
     { value: 4, label: 'Brake Line', image: '/options/brakeline.png' },
     { value: 5, label: 'Danger Inside', image: '/options/danger.png' },
     { value: 6, label: 'Joker', image: '/options/joker.png' },
-    { value: 7, label: 'Madness', image: '/options/madness.png' },
-    { value: 8, label: 'Desert', image: '/options/desert.png' },
+    { value: 7, label: 'Madness Trip', image: '/options/madness.png' },
+    { value: 8, label: 'Desert Horizon', image: '/options/desert.png' },
     { value: 9, label: 'Hot Rods', image: '/options/hotrod.png' },
     { value: 10, label: 'Mayan', image: '/options/mayan.png' },
     { value: 11, label: 'Sea Breeze', image: '/options/seabreaze.png' },
@@ -21,7 +21,7 @@ const options = [
     { value: 13, label: 'Silk', image: '/options/silk.png' },
     { value: 14, label: 'Snake Skin', image: '/options/snake.png' },
     { value: 15, label: 'Solar Flare', image: '/options/flare.png' },
-    { value: 16, label: 'Dominator', image: '/options/dominator.png' },
+    { value: 16, label: 'Street Dominator', image: '/options/dominator.png' },
     { value: 17, label: 'Top Gun', image: '/options/topgun.png' },
     { value: 18, label: 'Water Explosion', image: '/options/explosion.png' },
     { value: 19, label: 'Wild West', image: '/options/wildwest.png' },
@@ -36,6 +36,11 @@ const options = [
     { value: 28, label: 'Fantastic Cloud', image: '/options/cloud.png' },
     { value: 29, label: 'Geometric Palette', image: '/options/geometric.png' },
     { value: 30, label: 'Lagoon Cracks', image: '/options/lagoon.png' },
+    { value: 31, label: 'Black Panther', image: '/options/panther.png' },
+    { value: 32, label: 'Venom', image: '/options/venom.png' },
+    { value: 33, label: 'Neon Brush', image: '/options/neon.png' },
+    { value: 34, label: 'Kurosu Warrior', image: '/options/warrior.png' },
+    { value: 35, label: 'Destroyed Marble', image: '/options/marble.png' },
 ];
 
 const reversedOptions = [...options].reverse();
